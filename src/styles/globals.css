@@ -25,3 +25,5 @@ body {
     text-wrap: balance;
   }
 }
+
+body {@apply p-10}
