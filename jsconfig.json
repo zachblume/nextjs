@@ -1,7 +1,9 @@
 {
-  "compilerOptions": {
-    "paths": {
-      "@/*": ["./src/*"]
+    "compilerOptions": {
+        "lib": ["ES2023"],
+        "jsx": "preserve",
+        "paths": {
+            "@/*": ["./src/*"]
+        }
     }
-  }
 }
